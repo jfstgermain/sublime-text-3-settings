@@ -1,0 +1,9 @@
+{
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Markdown",
+		"Vintage"
+	],
+	"remember_open_files": true
+}
